@@ -1,0 +1,22 @@
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.deps.json
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.runtimeconfig.json
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.runtimeconfig.dev.json
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.dll
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.pdb
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.csprojAssemblyReference.cache
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.csproj.CoreCompileInputs.cache
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.AssemblyInfoInputs.cache
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.AssemblyInfo.cs
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.dll
+c:\users\acivico.gowaiicorp\source\repos\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.pdb
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.deps.json
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.runtimeconfig.json
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.runtimeconfig.dev.json
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.dll
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\bin\Debug\netcoreapp2.0\WebAPISwaggerDemo.pdb
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.csprojAssemblyReference.cache
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.csproj.CoreCompileInputs.cache
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.AssemblyInfoInputs.cache
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.AssemblyInfo.cs
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.dll
+D:\Visual Projects\WebAPISwaggerDemo\WebAPISwaggerDemo\obj\Debug\netcoreapp2.0\WebAPISwaggerDemo.pdb
